@@ -1,0 +1,48 @@
+SAMPLE RUN-
+❖ C:\Users\SHREYA SINGH\OneDrive\Desktop>javac cabbookingone.java 
+❖ C:\Users\SHREYA SINGH\OneDrive\Desktop>java Cab 
+❖ WELCOME TO THE CAB BOOKING SYSTEM 
+❖ Enter your name 
+❖ sumit singh 
+❖ Enter email 
+❖ sumitsingh14@gmail.com 
+❖ Enter the pickup location 
+❖ ADA naini 
+❖ Enter your destinatin or drop off point 
+❖ jhunsi 
+❖ Enter your mobile number 
+❖ 9795830323 
+❖ Enter time of your pickup 
+❖ 13:30 
+❖ Mode of payment 
+❖ Enter 1 for online payment 
+❖ Enter 2 for offline payment 
+❖ 1 
+❖ UPI 
+❖ credit card 
+❖ GPay 
+❖ Enter your mode 
+❖ 2 
+❖ This mode is currently unavailable so you may pay through cash 
+❖ enter the size of the car 
+❖ Enter 1 for 5 seater car 
+❖ Enter 2 for 8 seater car 
+❖ 1 
+❖ the list of cars available for 5 seater car are along with prizes 
+❖ Wagon R 
+❖ Swift 
+❖ i10 
+❖ Indigo 
+❖ Tiago 
+❖ Enter your desired car.Please enter the correct spelling of the car 
+❖ swift 
+❖ your car has been booked successfully 
+❖ The no of your car is UP70FL9554 
+❖  the car costs Rs 10/km 
+❖  The name of your driver is kamal 
+❖ if you want to track your car or have any query you want may contact your driver on 9458036022 
+❖ have a happy and safe jouurney! 
+❖ thank you 
+❖ do you want to cancle your cab (yes or no) 
+❖ no 
+❖ Go ahead with your journey,your car must be reaching you. 
